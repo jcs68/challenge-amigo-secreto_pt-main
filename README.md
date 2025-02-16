@@ -1,4 +1,4 @@
-   Amigo Secreto
+ Amigo Secreto
 
 Este é um projeto simples para sortear um amigo secreto. Os usuários podem adicionar nomes de amigos, visualizar a lista de amigos adicionados e sortear um amigo secreto aleatoriamente.
 
@@ -73,16 +73,7 @@ challenge-amigo-secreto_pt-main/
 2. Clique no botão "Adicionar" para adicionar o nome à lista.
 3. Repita o processo para adicionar mais nomes.
 
-![Adicionar Nomes](assets/adicionar-nomes.png)
-
 ### Sortear Amigo Secreto
 
 1. Clique no botão "Sortear Amigo" para sortear um amigo secreto aleatoriamente.
 2. O nome sorteado será exibido na página.
-
-![Sortear Amigo Secreto](assets/sortear-amigo.png)
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
